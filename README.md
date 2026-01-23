@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a Junior Full Stack Web Developer - Aulab 2026 Certified.
-Currently I'm mastering React
+<br>
+Currently mastering React.
 
 
 ## 🌐 Socials:
