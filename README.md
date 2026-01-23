@@ -1,4 +1,6 @@
 # 💫 About Me:
+My name is Giuseppe Coppolecchia, 25 from Molfetta (BA), Italy.
+I have 3 dogs and i love them.
 I'm a Junior Full Stack Web Developer - Aulab 2026 Certified.
 <br>
 Currently mastering React.
