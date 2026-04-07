@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Giuseppe Coppolecchia, 25 from Molfetta (BA), Italy. <br>
+My name is Giuseppe Coppolecchia, 26 from Molfetta (BA), Italy. <br>
 I have 3 dogs and i love them. <br>
 I'm a Junior Full Stack Web Developer - Aulab 2026 Certified.
 <br>
