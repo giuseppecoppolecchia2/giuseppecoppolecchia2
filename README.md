@@ -54,7 +54,7 @@ Hi! I'm Giuseppe, a 26-year-old Full Stack Web Developer based in Molfetta (BA),
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Dott.ssa Rosanna Mininni** | Professional web platform for a psychologist featuring a secure mobile-first admin dashboard for appointment and patient record management. | React, Vite, Tailwind CSS, Supabase, React Router DOM, React Hook Form, Zod, Framer Motion, Sharp | [Live Demo 🔗](https://www.psicologamininni.com) |
+| **Dott.ssa Rosanna Mininni** | Professional web platform for a psychologist featuring a secure mobile-first admin dashboard for appointment and patient record management. | React, Vite, Tailwind CSS, Supabase, React Router DOM, React Hook Form, Zod, Framer Motion, Sharp | [Live Site 🔗](https://www.psicologamininni.com) |
 | **Sto al Trullo** | High-end vacation rental showcase and booking platform in Fasano, Puglia, featuring an admin panel with automated iCal sync. | React, Vite, Tailwind CSS, Supabase, React Router DOM, Framer Motion, node-ical | [Live Demo 🔗](https://stoaltrullo.vercel.app/) |
 | **Ohara** | Gaming portal powered by RAWG API featuring user registration, customized profile pages with avatar upload, favorites, and game reviews. | React, Vite, Tailwind CSS, DaisyUI, React Router DOM, React Hook Form, Supabase, RAWG API | [Live Demo 🔗](https://ohara-blush.vercel.app) \| [Repo 🔗](https://github.com/giuseppecoppolecchia2/ohara) |
 | **Prestissimo** | A dynamic marketplace designed for buying and selling rare vinyl records. | PHP, Laravel, Livewire, Bootstrap, MySQL | [Repo 🔗](https://github.com/giuseppecoppolecchia2/prestissimo) |
